@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# Telecom Churn Prediction Project
 
 ## Business Context:
 A leading telecom provider wants to reduce customer churn by identifying high - value customers at risk of leaving. The company has historical data covering four months of customer usage behaviour, including call details, internet usage, and recharge history.
@@ -221,3 +221,7 @@ git clone https://github.com/your-repo/customer-churn-prediction.git
 ```bash
 pip install -r requirements.txt
 ```
+## **Contributors**
+**Hrishikesh Das**
+**[email]hrishi2001das@gmail.com**
+**[Linkedin](https://www.linkedin.com/in/hrishikesh-das-051520191/)**
