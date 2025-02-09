@@ -197,11 +197,14 @@ The foloowing chart shows the minutes of Usage of all the out going calls.
 - **Imbalanced Data Handling:** SMOTE and Random Undersampling
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
+## **Model Comparison**
+![Barplot](./image/model_comparison.png)
+
 ## **Best Performing Model**
 - **Model:** XG Boosting Classifier
 - **Training Accuracy:** 90%
 - **Testing Accuracy:** 87%
-- **Recall (Churn Class):** 81% 
+- **Recall (Churn Class):** 80% 
 
 ## **Strategies to Reduce Churn**
 1. **Loyalty Programs:** Target long-term customers to strengthen retention.
@@ -212,8 +215,9 @@ The foloowing chart shows the minutes of Usage of all the out going calls.
 ## **Installation and Setup**
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-repo/customer-churn-prediction.git
-
-2 .Install dependencies:
+git clone https://github.com/your-repo/customer-churn-prediction.git 
+```
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
