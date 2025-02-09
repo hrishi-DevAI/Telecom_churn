@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+seaborn
+mlflow
+matplotlib
+dvc
+scikit-learn==1.5.2
+xgboost
+scipy
+statsmodels
+imblearn
