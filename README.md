@@ -222,6 +222,6 @@ git clone https://github.com/your-repo/customer-churn-prediction.git
 pip install -r requirements.txt
 ```
 ## **Contributors**
-- **[Name]Hrishikesh Das**
-- **[Email]hrishi2001das@gmail.com**
+- **Hrishikesh Das**
+- **hrishi2001das@gmail.com**
 - **[Linkedin](https://www.linkedin.com/in/hrishikesh-das-051520191/)**
